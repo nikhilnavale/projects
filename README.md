@@ -6,7 +6,7 @@ Lots of automation, including automatic allocation of rooms to new students. The
 
 The system also has a login for students. Students can see their own uncollected couriers, submit new complaints as well as check the status of pending ones, see events taking place in the hostel they’re residing in and search for other students to find out their rooms.
 
-**Please see the [ project report](https://github.com/nikhilnavale/Project) for detailed information of all features as well as ER analysis of database.**
+**Please see the [ project report](https://github.com/nikhilnavale/projects) for detailed information of all features as well as ER analysis of database.**
 
 ## Demo
 ### Example feature: Student entry-exit records
